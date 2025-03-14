@@ -19,7 +19,7 @@ Criar uma infraestrutura **segura**, **escalável** e de **baixo custo** para um
 ### 🔥 Desafios e Soluções
 #### 🔹 Controle de Custos com Alta Disponibilidade
 - **Problema:** Garantir disponibilidade com orçamento mensal de **$500**.
-- **Solução:** Uso de **Auto Scaling** e instâncias **Spot** para reduzir custos das EC2, além de **Aurora Serverless** para o banco de dados.
+- **Solução:** Uso de **Auto Scaling** e instâncias utilizando **Saving Plans** para reduzir custos das EC2, além de **Aurora Serverless** para o banco de dados.
 
 #### 🔹 Performance e Cache
 - **Problema:** Reduzir latência e melhorar experiência do usuário.
@@ -58,7 +58,7 @@ Create a **secure**, **scalable**, and **low-cost** infrastructure for an e-comm
 ### 🔥 Challenges and Solutions
 #### 🔹 Cost Control with High Availability
 - **Problem:** Ensure availability with a monthly budget of **$500**.
-- **Solution:** Use of **Auto Scaling** and **Spot Instances** to reduce EC2 costs, along with **Aurora Serverless** for the database.
+- **Solution:** Use of **Auto Scaling** and **Saving Plans** for instances to reduce EC2 costs, along with **Aurora Serverless** for the database.
 
 #### 🔹 Performance and Caching
 - **Problem:** Reduce latency and improve user experience.
