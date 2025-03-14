@@ -10,7 +10,7 @@
 
 - **Desafio**: Garantir alta disponibilidade do e-commerce dentro do orçamento mensal de **$500**.
 - **Solução**:
-  - Implementação de instâncias **EC2 Spot** para reduzir custos computacionais.
+  - Implementação de instâncias EC2 com **Saving Plans** para reduzir custos computacionais.
   - Uso de **Aurora Serverless** para escalabilidade automática do banco de dados.
   - Configuração de **Auto Scaling** para ajustar a capacidade conforme a demanda.
 
@@ -52,7 +52,7 @@ Os desafios foram superados com uma abordagem estratégica de otimização de re
 
 - **Challenge**: Ensure high availability for the e-commerce platform within the monthly budget of **$500**.
 - **Solution**:
-  - Implementation of **EC2 Spot Instances** to reduce computational costs.
+  - Implementation of EC2 instances with **Saving Plans** to reduce computational costs.
   - Use of **Aurora Serverless** for automatic database scaling.
   - Configuration of **Auto Scaling** to adjust capacity based on demand.
 
