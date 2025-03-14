@@ -86,6 +86,6 @@ This approach ensures that the infrastructure supports a functional e-commerce p
 
 - [AWS Cost Explorer](https://aws.amazon.com/aws-cost-management/aws-cost-explorer/)
 - [AWS Budgets](https://aws.amazon.com/aws-cost-management/aws-budgets/)
-- [Amazon EC2 Spot Instances](https://aws.amazon.com/ec2/spot/)
+- [Amazon EC2 Saving Plans](https://aws.amazon.com/savingsplans/)
 - [Amazon Aurora Serverless](https://aws.amazon.com/rds/aurora/serverless/)
 - [Amazon CloudFront](https://aws.amazon.com/cloudfront/)
