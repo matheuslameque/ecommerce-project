@@ -32,7 +32,7 @@ Criar uma infraestrutura **segura**, **escalável** e de **baixo custo** para um
 ### 📊 Estimativa de Custos
 | Serviço                  | Custo Mensal Estimado |
 |--------------------------|-----------------------|
-| EC2 Spot + Auto Scaling  | $200                 |
+| EC2 1y Saving Plans + Auto Scaling  | $200                 |
 | RDS Aurora Serverless    | $100                 |
 | CloudFront + S3          | $50                  |
 | ELB + Route 53           | $50                  |
