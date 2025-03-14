@@ -52,14 +52,14 @@ The architecture was designed to stay within the monthly budget of **$500**, usi
 
 ### 📊 Cost Summary
 
-| Service                                | Estimated Monthly Cost |
-| -------------------------------------- | ---------------------- |
-| Amazon EC2 (Spot + Auto Scaling)       | $200                   |
-| Amazon RDS Aurora (Serverless)         | $100                   |
-| Amazon CloudFront + S3                 | $50                    |
-| Elastic Load Balancer (ELB) + Route 53 | $50                    |
-| Amazon CloudWatch Logs                 | $50                    |
-| **Total Estimated**                    | **$450 - $500**        |
+| Service                  | Estimated Monthly Cost |
+|--------------------------|------------------------|
+| EC2 Saving Plans + Auto Scaling  | $31            |
+| RDS Aurora Serverless    | $296                   |
+| CloudFront + S3          | $27                    |
+| ELB + Route 53           | $28                    |
+| CloudWatch Logs          | $63                    |
+| **Total**                | **$445**               |
 
 ---
 
