@@ -25,7 +25,7 @@ A arquitetura foi projetada para se manter dentro do orçamento mensal de **$500
 
 ### 📌 Estratégias de Redução de Custos
 
-- **Uso de instâncias Spot**: Reduz o custo das EC2 sem comprometer a disponibilidade.
+- **Uso de Saving Plans para as instâncias**: Conhecendo o período determinado de uso das instâncias e tendo orçamento para adiantar os custos, é possível reduzir consideravelmente o custo das EC2 sem comprometer a disponibilidade.
 - **Aurora Serverless**: Escalabilidade automática do banco de dados, evitando custos fixos elevados.
 - **CloudFront**: Reduz requisições diretas ao EC2, otimizando a largura de banda.
 - **Auto Scaling**: Garante que apenas a capacidade necessária esteja ativa em momentos de baixa demanda.
@@ -65,7 +65,7 @@ The architecture was designed to stay within the monthly budget of **$500**, usi
 
 ### 📌 Cost Reduction Strategies
 
-- **Use of Spot Instances**: Reduces EC2 costs without compromising availability.
+- **Use of Saving Plans for instances**: Knowing the fixed period of use of the instances and having the budget to pay upfront, it is possible to sustantially reduce EC2 costs without compromising availability.
 - **Aurora Serverless**: Automatic database scaling, avoiding high fixed costs.
 - **CloudFront**: Reduces direct requests to EC2, optimizing bandwidth.
 - **Auto Scaling**: Ensures only the necessary capacity is active during low-demand periods.
