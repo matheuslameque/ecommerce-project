@@ -57,7 +57,7 @@ _Nota: O diagrama acima foi criado utilizando os [AWS Architecture Icons](https:
 
 - **Alta Disponibilidade**: Utiliza instâncias distribuídas em várias zonas de disponibilidade (AZs).
 - **Escalabilidade**: Auto Scaling para adaptação à demanda.
-- **Otimização de Custos**: Uso de instâncias Spot, CloudFront e Aurora Serverless para reduzir despesas.
+- **Otimização de Custos**: Uso de instâncias EC2 com Saving Plans, CloudFront e Aurora Serverless para reduzir despesas.
 - **Segurança**: Bancos de dados em subnets privadas e controle de acesso refinado.
 
 ---
@@ -125,7 +125,7 @@ _Note: The diagram above was created using [AWS Architecture Icons](https://aws.
 
 - **High Availability**: Uses instances distributed across multiple availability zones (AZs).
 - **Scalability**: Auto Scaling to adapt to demand.
-- **Cost Optimization**: Use of Spot Instances, CloudFront, and Aurora Serverless to reduce expenses.
+- **Cost Optimization**: Use of EC2 Instances with Saving Plans, CloudFront, and Aurora Serverless to reduce expenses.
 - **Security**: Databases in private subnets and refined access control.
 
 ---
